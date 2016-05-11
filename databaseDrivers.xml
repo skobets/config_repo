@@ -34,6 +34,12 @@
     <driver id="db2" name="DB2 (LUW)" dialect="DB2">
       <option name="auto-sync" value="false" />
       <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/db2-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/db2jcc4-4.9.78.jar</url>
+      </library>
     </driver>
     <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
       <option name="auto-sync" value="false" />
