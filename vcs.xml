@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/skobets/ConcurrentParadigms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Travelbanda/bot-predictor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\k_s_a\IdeaProjects\" />
