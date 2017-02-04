@@ -1,85 +1,33 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CompilerConfiguration">
-        <resourceExtensions />
-        <wildcardResourcePatterns>
-          <entry name="!?*.java" />
-          <entry name="!?*.form" />
-          <entry name="!?*.class" />
-          <entry name="!?*.groovy" />
-          <entry name="!?*.scala" />
-          <entry name="!?*.flex" />
-          <entry name="!?*.kt" />
-          <entry name="!?*.clj" />
-          <entry name="!?*.aj" />
-        </wildcardResourcePatterns>
-        <annotationProcessing>
-          <profile default="true" name="Default" enabled="false">
-            <processorPath useClasspath="true" />
-          </profile>
-        </annotationProcessing>
-      </component>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/IdeaProjects/backend" value="4340934789080" />
-            <entry key="D:/IamGamer/server" value="2884276305253" />
+            <entry key="D:/work/TravelChatServices" value="5934020317454" />
+            <entry key="D:/work/weka-scala" value="2971619452096" />
           </map>
         </option>
         <option name="externalProjectsViewState">
           <projects_view />
         </option>
       </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
-          </MavenGeneralSettings>
-        </option>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
       </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>Java</id>
-              </State>
-              <State>
-                <id>Java language level migration aidsJava</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>CSS</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
-      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-        <OptionsSetting value="true" id="Add" />
-        <OptionsSetting value="true" id="Remove" />
-        <OptionsSetting value="true" id="Checkout" />
-        <OptionsSetting value="true" id="Update" />
-        <OptionsSetting value="true" id="Status" />
-        <OptionsSetting value="true" id="Edit" />
-        <ConfirmationsSetting value="0" id="Add" />
-        <ConfirmationsSetting value="0" id="Remove" />
-      </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="ProjectRootManager" version="2" default="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="File.Encoding" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="last_opened_file_path" value="D:/IamGamer" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
       </component>
       <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+          <method />
+        </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
@@ -88,7 +36,6 @@
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <option name="MAIN_CLASS_NAME" />
           <option name="VM_PARAMETERS" />
           <option name="PROGRAM_PARAMETERS" />
@@ -103,7 +50,6 @@
           <method />
         </configuration>
         <configuration default="true" type="JUnit" factoryName="JUnit">
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <module name="" />
           <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
           <option name="ALTERNATIVE_JRE_PATH" />
@@ -132,7 +78,6 @@
           <method />
         </configuration>
         <configuration default="true" type="TestNG" factoryName="TestNG">
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <module name="" />
           <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
           <option name="ALTERNATIVE_JRE_PATH" />
@@ -144,7 +89,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />
@@ -159,40 +104,6 @@
           <listeners />
           <method />
         </configuration>
-        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-        </configuration>
-      </component>
-      <component name="ScalaSbtSettings">
-        <option name="customLauncherEnabled" value="true" />
-        <option name="customLauncherPath" value="D:\sbt\bin\sbt-launch.jar" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
